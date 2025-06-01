@@ -53,7 +53,7 @@ This project demonstrates Natural Language Processing (NLP) techniques applied t
 
 | Component        | Description                     |
 |------------------|---------------------------------|
-| Language         | Python 3.x                      |
+| Language         | Python 3.1                      |
 | Notebook         | Jupyter (.ipynb)                |
 | Libraries        | NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
 
